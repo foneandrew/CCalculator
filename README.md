@@ -14,4 +14,5 @@ It supports the following operators:
 
 I had to replace the main methods from both programs (with methods designed to work with an external program)
 and rename a few others, but otherwise they are untouched, and all incorperated into the main program. They can be compiled
-with the basic makefile I made. (I made the programs on Linux Mint, so I am unsure if they will work on other platforms)
+with the basic makefile I made. (I made the programs on Linux Mint, so I am unsure if they will work on other platforms). 
+The makefile will generate the 'CCalculator' program file.
